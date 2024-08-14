@@ -102,12 +102,6 @@
 
 [화면설계서 바로가기 > ](https://www.figma.com/design/bgjsXCvavxi6TVbBWfTv1C/HRacoon?node-id=0-1&t=yfuiV7uJmmAxTOi6-0)
 
-**ERD**
-
-<br>
-
-![ERD](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/308a43a6-e042-458f-b1ab-1aa5db2fb147)
-
 **아키텍처**
 
 <br>
